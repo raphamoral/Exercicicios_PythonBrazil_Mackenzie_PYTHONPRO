@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="329d3f0d-c89f-4181-a99d-6a195b033e0d" name="Changes" comment="Adicionando agora tudo direto por commit">
-      <change beforePath="$PROJECT_DIR$/Estrutura sequencial pythonBrasil/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Estrutura sequencial pythonBrasil/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Estrutura sequencial pythonBrasil/Juros Compostos.py" beforeDir="false" afterPath="$PROJECT_DIR$/Estrutura sequencial pythonBrasil/Juros Compostos.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -188,7 +188,14 @@
       <option name="project" value="LOCAL" />
       <updated>1631075899660</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Adicionando agora tudo direto por commit">
+      <created>1631075994790</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1631075994790</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
