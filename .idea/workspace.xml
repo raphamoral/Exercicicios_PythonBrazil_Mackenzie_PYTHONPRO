@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="329d3f0d-c89f-4181-a99d-6a195b033e0d" name="Changes" comment="Adicionando agora tudo direto por commit">
-      <change beforePath="$PROJECT_DIR$/Estrutura sequencial pythonBrasil/Juros Compostos.py" beforeDir="false" afterPath="$PROJECT_DIR$/Estrutura sequencial pythonBrasil/Juros Compostos.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mackenzie/Mackenzie Aula 4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +18,12 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitSEFilterConfiguration">
@@ -49,7 +56,7 @@
       <recent name="C:\Users\rapha\OneDrive\Área de Trabalho\PythonPro\Fundamentos de Python #PythonBirds\Mackenzie" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Exercicio 2">
+  <component name="RunManager" selected="Python.Mackenzie Aula 4">
     <configuration name="Exercicio 1 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Fundamentos de Python #PythonBirds" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -134,7 +141,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Exercicio2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Mackenzie Aula 4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Fundamentos de Python #PythonBirds" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -142,11 +149,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonBrasil Strings" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Mackenzie" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonBrasil Strings/Exercicio2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Mackenzie/Mackenzie Aula 4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -157,11 +164,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Mackenzie Aula 4" />
         <item itemvalue="Python.Exercicio 2" />
         <item itemvalue="Python.Exercicio 1 (1)" />
         <item itemvalue="Python.Exercicio 1" />
         <item itemvalue="Python.Exercicio 5" />
-        <item itemvalue="Python.Exercicio2" />
       </list>
     </recent_temporary>
   </component>
@@ -195,7 +202,14 @@
       <option name="project" value="LOCAL" />
       <updated>1631075994790</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Adicionando agora tudo direto por commit">
+      <created>1631076383815</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1631076383815</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -208,6 +222,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Adicionando agora tudo direto por commit" />
