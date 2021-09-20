@@ -12,5 +12,7 @@ elif 14 <= idade <= 17:
     print(('JUVENIL B'))
 elif idade >=18:
     print('SÊNIOR')
+elif idade<0:
+    print('Idade invalida')
 
 
